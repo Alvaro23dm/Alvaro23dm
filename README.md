@@ -23,7 +23,7 @@
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="Icons\java-original.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
-        <!-- <img src="Icons\python-original.svg" title="Python" alt="HTML" width="40" height="40"/>&nbsp;--->
+        <img src="Icons\python-original.svg" title="Python" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="Icons\mysql-original-wordmark.svg" title="MySql" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="Icons\c-original.svg" title="C" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="Icons\bash-original.svg" title="Bash" alt="HTML" width="40" height="40"/>&nbsp;
