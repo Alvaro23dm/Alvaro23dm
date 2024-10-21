@@ -1,18 +1,18 @@
 <div id="header" align="center">
     <h1 align="center">Hi , I'm Álvaro Domínguez 👋</h1>
-    <h3 align="center">I am a final-year computer science student at the Universidad Politécnica de Madrid, actively seeking an internship to enhance my education. With a passion for technology and strong programming skills, I am eager to gain practical experience in the field.</h3>
+    <h3 align="center">I have recently graduated with a Bachelor's degree in Computer Science from the Universidad Politécnica de Madrid and am currently working in the field of embedded software. With a strong passion for technology and solid programming skills, I am excited to apply my knowledge in professional settings and continue growing in this field.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 🎓 I’m at my last year at college
+- 🎓 I’ve recently graduated with a degree in Computer Science.
 
-- 💻 I develop software in both **Linux** and **Windows**
+- 💻 I have a strong command of **Linux** and **embedded systems** development.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **linux server administration** and **RobotFramework**.
 
-- 📫 How to reach me **alvarodm2002adm@gmail.com**
+- 📫 How to reach me **alvarodm2002adm@gmail.com**.
 
 
 ### 📤 Contact me :
