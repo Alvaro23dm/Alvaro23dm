@@ -2,7 +2,7 @@
     <h1 align="center">Hi , I'm Álvaro Domínguez 👋</h1>
     <h3 align="center">I have recently graduated with a Bachelor's degree in Computer Science from the Universidad Politécnica de Madrid and am currently working in the field of embedded software. With a strong passion for technology and solid programming skills, I am excited to apply my knowledge in professional settings and continue growing in this field.</h3>
 </div>
----
+
 
 ### 👨‍💻 About Me :
 
